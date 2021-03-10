@@ -1,4 +1,5 @@
 # My First Hackintosh!
+![macOS Big Sur-Light Theme](https://github.com/armm29393/i5-6500_Asus-Z170A-Hackintosh/blob/main/light-theme.jpg?raw=true)
 
 ## Specs
 - CPU : i5-6500
